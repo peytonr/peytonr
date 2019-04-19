@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9abf89f-90da-4173-bf3f-af7e766ba23e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+            <state relative-caret-position="15">
+              <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -147,7 +146,7 @@
       <workItem from="1549309284941" duration="327000" />
       <workItem from="1549314007203" duration="4248000" />
       <workItem from="1550611159645" duration="4471000" />
-      <workItem from="1555643687711" duration="93000" />
+      <workItem from="1555643687711" duration="229000" />
     </task>
     <task id="LOCAL-00001" summary="main page update">
       <created>1549259776056</created>
@@ -156,11 +155,18 @@
       <option name="project" value="LOCAL" />
       <updated>1549259776056</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="empty">
+      <created>1555643793422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1555643793422</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12288000" />
+    <option name="totallyTimeSpent" value="12424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1370" height="877" extended-state="0" />
@@ -212,7 +218,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="main page updatef" />
     <MESSAGE value="main page update" />
-    <option name="LAST_COMMIT_MESSAGE" value="main page update" />
+    <MESSAGE value="empty" />
+    <option name="LAST_COMMIT_MESSAGE" value="empty" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/CNAME">
@@ -229,8 +236,8 @@
     <entry file="file://$PROJECT_DIR$/assets/js/main.js" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="15">
+          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
         </state>
       </provider>
     </entry>
