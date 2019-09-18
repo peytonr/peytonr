@@ -21,3 +21,13 @@ a:hover {
     text-decoration: underline;
     color: #a1a1ce;
 }
+
+@media screen and (max-width : 510px) {
+    .col-md-7 {
+        max-width: none !important;
+        width: auto !important;
+        flex: none !important;
+        margin-right: 5px !important;
+        margin-left: 5px !important;
+    } 
+}
