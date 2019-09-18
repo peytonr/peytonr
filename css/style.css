@@ -24,7 +24,6 @@ a:hover {
 
 @media screen and (max-width : 510px) {
     .col-md-7 {
-        max-width: none !important;
         width: auto !important;
         flex: none !important;
         margin-right: 5px !important;
