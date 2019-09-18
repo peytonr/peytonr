@@ -3,6 +3,16 @@
     color: #ccc;
 }
 
+.skill {
+    border: 2px solid #a1a1ce; 
+    border-radius: 10px; 
+    width: 80px; 
+    display: inline-block;
+    margin-right: 10px; 
+    margin-bottom: 5px;
+    text-align: center;
+}
+
 a {
     color: #a1a1ce;
 }
